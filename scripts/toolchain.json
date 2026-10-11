@@ -1,0 +1,18 @@
+{
+  "dotnet-sdk": {
+    "url": "https://builds.dotnet.microsoft.com/dotnet/Sdk/8.0.425/dotnet-sdk-8.0.425-win-x64.zip",
+    "sha256": "CD6EB1DF826DD168108E2C427673F9D627B7E0631963EEEDF0FA7AEF0913C53F"
+  },
+  "melonloader": {
+    "url": "https://github.com/LavaGang/MelonLoader/releases/download/v0.7.3/MelonLoader.x64.zip",
+    "sha256": "5B2B2F3D1CD42B59EC886C5BDC2663EDAE87A0097A4F4A8F58C0965A99DDA416"
+  },
+  "desktop-runtime": {
+    "url": "https://builds.dotnet.microsoft.com/dotnet/WindowsDesktop/6.0.36/windowsdesktop-runtime-6.0.36-win-x64.zip",
+    "sha256": "02584E3136A8BD3C2CD4DE654E0C53981B73967FA998ED331D5FE8E75B835C09"
+  },
+  "core-runtime": {
+    "url": "https://builds.dotnet.microsoft.com/dotnet/Runtime/6.0.36/dotnet-runtime-6.0.36-win-x64.zip",
+    "sha256": "C077CCC342C5571CEB7A3C06D1DFBC99B989ED5A6E0F3A0B0B450531C1259615"
+  }
+}

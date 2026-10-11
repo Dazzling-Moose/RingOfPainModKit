@@ -1,0 +1,4 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup><TargetFramework>net6.0</TargetFramework><OutputType>Exe</OutputType><ImplicitUsings>enable</ImplicitUsings></PropertyGroup>
+  <ItemGroup><Reference Include="Mono.Cecil"><HintPath>../../melon-test-game/MelonLoader/net6/Mono.Cecil.dll</HintPath></Reference></ItemGroup>
+</Project>
